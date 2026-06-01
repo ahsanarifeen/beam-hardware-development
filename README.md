@@ -32,6 +32,9 @@ Our engineering path has been defined by rapid iteration, testing, and pivoting 
 
 ---
 
-## Repository Assets
-* **Enclosure Assets:** Attached `.obj` files demonstrate the physical enclosure form factor and how the device natively positions itself under standard workspace monitors.
-* **Historical Layouts:** Attached screenshots of the Phase 0.1 and Phase 0.2 Gerber layouts document our early architectural routing before pivoting to the streamlined V0 model.
+## Directory Structure
+
+* 📁 `/enclosure/` — Contains `.obj` files demonstrating the physical form factor and how the device positions itself under standard workspace monitors.
+* 📁 `/pcb-history/` — Contains our visual hardware changelog:
+  * `/phase-0.1-hometheater/` — Screenshots of the initial 1-HDMI / no-Bluetooth board routing.
+  * `/phase-0.2-passthrough/` — Screenshots of the 2-HDMI / Bluetooth passthrough board routing.
