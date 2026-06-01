@@ -1,9 +1,9 @@
 # BEAM by Fyrefly - Hardware Development Log
 
-This repository tracks the physical architecture, enclosure design iterations, and development history for BEAM: a desk-native parametric speaker system creating invisible acoustic infrastructure for B2B knowledge-work environments.
+This repository tracks the physical architecture, enclosure design iterations, and development history for BEAM: a desk-native parametric speaker system creating invisible acoustic infrastructure for B2B knowledge-work environments. I've been compiling a tonne of offline files for a while now, so I decided it would be a good idea to compile them into a portfolio.
 
 ## Overview
-Because BEAM utilizes proprietary phased-array ultrasonic beamforming, core firmware logic and raw electrical manufacturing files (Gerbers) are kept internal to protect intellectual property. This public repository functions as a physical versioning log and a host for non-proprietary structural enclosure assets and historical layout screenshots.
+Because BEAM utilizes proprietary phased-array ultrasonic beamforming, core firmware logic and raw electrical manufacturing files (Gerbers) are kept internal to protect intellectual property. This public repository functions as a physical versioning log and a host for non-proprietary structural enclosure assets and historical layout screenshots. I will also be committing with some updates on firmware changes. The purpose is purely to show progress on a novel hardware product, so I cannot post firmware files for the sake of IP.
 
 ---
 
