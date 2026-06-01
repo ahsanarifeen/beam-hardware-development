@@ -22,7 +22,5 @@ _________________________________
 
 _________________________________
 
-## Repository Structure Overview
-
-* `/hardware/enclosure/`: Contains external physical design files and outer dimension models (`.obj` / `.stl`) mapping how the device natively positions itself under standard workspace monitors.
-* `/hardware/documentation/`: Contains non-proprietary block diagrams outlining basic power routing and systems logic flows.
+## Repository Assets
+* Attached `.obj` files demonstrate the physical enclosure form factor and how the device natively positions itself under standard workspace monitors
