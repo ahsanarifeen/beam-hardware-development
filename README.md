@@ -1,4 +1,4 @@
-# BEAM by Fyrefly — Hardware Development Log
+# BEAM by Fyrefly - Hardware Development Log
 
 This repository tracks the physical architecture, enclosure design iterations, and hardware validation history for BEAM: a desk-native parametric speaker system using phased-array ultrasonic beamforming to create individualized, headphone-free acoustic spaces.
 
